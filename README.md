@@ -1,5 +1,9 @@
-## Selenium IDE
+# Quality Assurance (QA) testing
 
+QA testing encompasses a wide range of testing methodologies and procedures aimed at ensuring the quality of software products. This includes not only functional testing (to check if the software does what it's supposed to do) but also non-functional aspects like performance, usability, reliability, and scalability.
+
+
+## Selenium IDE
 
 An OpenSource extension, helps you record and playback test automation for the web.
 
